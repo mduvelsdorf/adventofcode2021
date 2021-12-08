@@ -7,8 +7,8 @@ Exercises from daily advent of code puzzles. Files are labeled Day ("D"), Date (
 os
 numpy
 
-##Notes
+## Notes
 
 Still need to comment code
 
-[MIT](https://adventofcode.com/)
+[Advent of Code Website](https://adventofcode.com/)
