@@ -5,7 +5,8 @@ Exercises from daily advent of code puzzles. Files are labeled Day ("D"), Date (
 ## Installation
 
 os,
-numpy
+numpy,
+math
 
 ## Notes
 
